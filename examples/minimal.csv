@@ -1,0 +1,4 @@
+Rental Id,Duration,Bike Id,End Date,EndStation Id,EndStation Name,Start Date,StartStation Id,StartStation Name
+71810456,300,892,02/12/2017 08:42,25,"Doric Way , Somers Town",02/12/2017 08:37,11,"Brunswick Square, Bloomsbury"
+71754506,420,13264,29/11/2017 20:32,73,"Old Street Station, St. Luke's",29/11/2017 20:25,539,"Hoxton Station, Hoxton"
+71783264,720,7456,30/11/2017 23:18,409,"Strata, Elephant & Castle",30/11/2017 23:06,388,"Southampton Street, Strand"
